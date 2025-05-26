@@ -3,6 +3,9 @@
 torch>=2.1.0
 torchvision>=0.15.0
 transformers>=4.25.0
+#ultralytics
+#torch
+#torchvision
 
 # 3D processing and visualization  
 open3d>=0.18.0
