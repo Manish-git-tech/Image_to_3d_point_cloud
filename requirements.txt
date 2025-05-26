@@ -1,0 +1,22 @@
+# Complete Pipeline Requirements for IITISOC Project
+# Core ML frameworks
+torch>=2.1.0
+torchvision>=0.15.0
+transformers>=4.25.0
+
+# 3D processing and visualization  
+open3d>=0.18.0
+
+# Image processing and visualization
+pillow>=9.0.0
+opencv-python>=4.5.0
+matplotlib>=3.5.0
+
+# Numerical computing
+numpy<2.0.0
+
+# Additional utilities
+tqdm
+pyyaml
+requests>=2.23.0
+psutil

@@ -1,0 +1,5 @@
+from fastsam import FastSAM
+# Load the model
+model = FastSAM('FastSAM-x.pt')
+# Perform inference on an image
+results = model.predict(source='images\arin.jpg', conf=0.4, iou=0.9, retina_masks=True, imgsz=1024, save=True, device=0) 
