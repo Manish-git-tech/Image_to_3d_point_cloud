@@ -1,8 +1,8 @@
-# Complete Pipeline Requirements for IITISOC Project
 # Core ML frameworks
 torch>=2.1.0
 torchvision>=0.15.0
 transformers>=4.25.0
+ultralytics>=8.0.0
 
 # 3D processing and visualization  
 open3d>=0.18.0
