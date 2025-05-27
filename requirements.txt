@@ -2,7 +2,13 @@
 torch>=2.1.0
 torchvision>=0.15.0
 transformers>=4.25.0
+<<<<<<< HEAD
 ultralytics>=8.0.0
+=======
+#ultralytics
+#torch
+#torchvision
+>>>>>>> 909acaa76505692ecc653879293a4498b20b9722
 
 # 3D processing and visualization  
 open3d>=0.18.0
